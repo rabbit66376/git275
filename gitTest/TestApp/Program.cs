@@ -10,6 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("OK I got a new move");
         }
     }
 }
